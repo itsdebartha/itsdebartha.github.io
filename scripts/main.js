@@ -5,7 +5,7 @@ function setusername()
     let myName=prompt('Enter your name: ');
     if(!myName)
     {
-        setusername();
+        myName=prompt('Enter your name: ');
     }
     localStorage.setItem('name',myName);
     myHeading.textContent='Mozilla is cool with you, '+myName;
