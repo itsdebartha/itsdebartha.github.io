@@ -3,7 +3,7 @@ let myHeading = document.querySelector('h1');
 function setusername()
 {
     let myName=prompt('Enter your name: ');
-    if(!myName)
+    while(!myName)
     {
         myName=prompt('Enter your name: ');
     }
