@@ -31,7 +31,7 @@ myImage.onclick=function()
     }
     else
     {
-        myImage.setAttribute('src','images/icons.png');
+        myImage.setAttribute('src','images/icon.png');
     }
 }
 
