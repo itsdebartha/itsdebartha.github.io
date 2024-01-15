@@ -1,5 +1,7 @@
 ---
-title: "Stochastic Stories: A Stats Student's Adventures!"
+title: "STOCHASTIC STORIES: A STATS STUDENT'S ADVENTURES"
+listing:
+    contents:
+        - "simplelinreg.qmd"
 ---
 
-This site was developed with Quarto v1.4.542
