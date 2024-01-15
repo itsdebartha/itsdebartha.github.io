@@ -1,0 +1,44 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Debartha Paul",
+    "section": "",
+    "text": "Hi! Welcome to my blog. I am a Statistics student with a special interest in Stochastic Processes. This is my website, and I will keep updating it with a variety of my projects, ideas and (maybe?) articles. I am eager to know what you think and would be very glad if you could point out my mistakes and all. Just drop me an email.\n\nEducation\nPresidency University, Kolkata | M.Sc Statistics | Sep 2022 - July 2024\nPresidency University, Kolkata | B.Sc Statistics(Hons.) | Aug 2019 - June 2022\n\n\nInterests\nStochastic Processes | Time Series Analysis | Bayesian Inference"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "STOCHASTIC STORIES: A STATS STUDENT’S ADVENTURES",
+    "section": "",
+    "text": "SimpleLinReg.jl: My first ever Julia package\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Debartha Paul",
+    "section": "Education",
+    "text": "Education\nPresidency University, Kolkata | M.Sc Statistics | Sep 2022 - July 2024\nPresidency University, Kolkata | B.Sc Statistics(Hons.) | Aug 2019 - June 2022"
+  },
+  {
+    "objectID": "simplelinreg.html",
+    "href": "simplelinreg.html",
+    "title": "SimpleLinReg.jl: My first ever Julia package",
+    "section": "",
+    "text": "This package is a result of my preparation for the Google Summer of Code, 2023. I build this package from the groundup using Julia. The package currently consists of 1 function which enables anyone to find the simple linear regression for two variables."
+  },
+  {
+    "objectID": "simplelinreg.html#introduction",
+    "href": "simplelinreg.html#introduction",
+    "title": "SimpleLinReg.jl: My first ever Julia package",
+    "section": "",
+    "text": "This package is a result of my preparation for the Google Summer of Code, 2023. I build this package from the groundup using Julia. The package currently consists of 1 function which enables anyone to find the simple linear regression for two variables."
+  },
+  {
+    "objectID": "simplelinreg.html#installation",
+    "href": "simplelinreg.html#installation",
+    "title": "SimpleLinReg.jl: My first ever Julia package",
+    "section": "Installation",
+    "text": "Installation\nThis package is not intended for the Julia general package repository so we have to install it using the GitHub address.\n\nStep 1- Open Julia. Then run the following command:\n\nusing Pkg\nPkg.add(url = \"https://github.com/itsdebartha/SimpleLinReg.jl.git\")"
+  }
+]

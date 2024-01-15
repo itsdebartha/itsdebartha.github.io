@@ -1,0 +1,21 @@
+---
+title: "SimpleLinReg.jl: My first ever Julia package"
+about:
+    template: trestles
+    links:
+        - icon: github
+          text: GitHub
+          href: https://github.com/itsdebartha/SimpleLinReg.jl.git
+---
+
+##  Introduction
+This package is a result of my preparation for the Google Summer of Code, 2023. I build this package from the groundup using Julia. The package currently consists of 1 function which enables anyone to find the simple linear regression for two variables.
+
+##  Installation
+This package is not intended for the Julia general package repository so we have to install it using the GitHub address.
+
+- Step 1-   Open Julia. Then run the following command:
+```julia
+using Pkg
+Pkg.add(url = "https://github.com/itsdebartha/SimpleLinReg.jl.git")
+```

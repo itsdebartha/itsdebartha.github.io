@@ -1,0 +1,7 @@
+---
+title: "STOCHASTIC STORIES: A STATS STUDENT'S ADVENTURES"
+listing:
+    contents:
+        - "simplelinreg.qmd"
+---
+
