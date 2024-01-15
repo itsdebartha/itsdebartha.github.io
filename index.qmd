@@ -1,0 +1,5 @@
+---
+title: "Welcome"
+---
+
+Hi! Welcome to my blog. I am a Statistics student with a special interest in Stochastic Processes. This is my website, and I will keep updating it with various of my projects, ideas and (maybe?) articles. I am eager to know what you think and would be very glad if you could point out my mistakes and all. Just drop me an [email](mailto:pauldeep102@gmail.com).
