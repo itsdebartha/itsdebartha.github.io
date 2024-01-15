@@ -2,4 +2,4 @@
 title: "Stochastic Stories: A Stats Student's Adventures!"
 ---
 
-About this site
+This site was developed with Quarto v1.4.542
