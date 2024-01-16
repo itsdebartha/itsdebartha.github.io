@@ -1,0 +1,58 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Debartha Paul",
+    "section": "",
+    "text": "Hi! Welcome to my blog. I am a Statistics student with a special interest in Stochastic Processes. This is my website, and I will keep updating it with a variety of my projects, ideas and (maybe?) articles. I am eager to know what you think and would be very glad if you could point out my mistakes and all. Just drop me an email.\n\nEducation\nPresidency University, Kolkata | M.Sc Statistics | Sep 2022 - July 2024\nPresidency University, Kolkata | B.Sc Statistics(Hons.) | Aug 2019 - June 2022\n\n\nInterests\nStochastic Processes | Time Series Analysis | Bayesian Inference"
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "STOCHASTIC STORIES: A STATS STUDENT’S ADVENTURES",
+    "section": "",
+    "text": "SimpleLinReg.jl\n\n\n\n\n\nMy first ever Julia package for doing simple linear regression in two variables.\n\n\n\n\n\nFeb 1, 2023\n\n\nDebartha Paul\n\n\n\n\n\n\n\n\n\n\n\n\nDice Simulations\n\n\n\n\n\nUndergraduate project on solutions and simulations of some events based on throwing of dice.\n\n\n\n\n\nAug 22, 2022\n\n\nDebartha Paul, Ahel Kundu\n\n\n\n\n\n\nNo matching items"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Debartha Paul",
+    "section": "Education",
+    "text": "Education\nPresidency University, Kolkata | M.Sc Statistics | Sep 2022 - July 2024\nPresidency University, Kolkata | B.Sc Statistics(Hons.) | Aug 2019 - June 2022"
+  },
+  {
+    "objectID": "simplelinreg.html",
+    "href": "simplelinreg.html",
+    "title": "SimpleLinReg.jl: My first ever Julia package",
+    "section": "",
+    "text": "This package is a result of my preparation for the Google Summer of Code, 2023. I build this package from the groundup using Julia. The package currently consists of 1 function which enables anyone to find the simple linear regression for two variables."
+  },
+  {
+    "objectID": "simplelinreg.html#introduction",
+    "href": "simplelinreg.html#introduction",
+    "title": "SimpleLinReg.jl",
+    "section": "Introduction",
+    "text": "Introduction\nThis package is a result of my preparation for the Google Summer of Code, 2023. I build this package from the groundup using Julia. The package currently consists of 1 function which enables anyone to find the simple linear regression for two variables."
+  },
+  {
+    "objectID": "simplelinreg.html#installation",
+    "href": "simplelinreg.html#installation",
+    "title": "SimpleLinReg.jl",
+    "section": "Installation",
+    "text": "Installation\nThis package is not intended for the Julia general package repository so we have to install it using the GitHub address.\n\nStep 1- Open Julia REPL in your device. Then run the following command:\n\nusing Pkg\nPkg.add(url = \"https://github.com/itsdebartha/SimpleLinReg.jl.git\")\n\nStep 2- The package will be installed. To check, press ] which will open the Pkg REPL. Then run st. You’ll be seeing something like:\n\n(@v1.9) pkg&gt; st\nStatus `C:\\Users\\user\\.julia\\environments\\v1.9\\Project.toml`\n  [4c88cf16] Aqua v0.8.4\n  [77b51b56] AverageShiftedHistograms v0.8.9\n  [6e4b80f9] BenchmarkTools v1.4.0\n  [336ed68f] CSV v0.10.12\n  [13f3f980] CairoMakie v0.11.5\n  .\n  .\n  .\nIf you can see SimpleLinReg listed (which you should), then the installation is fine."
+  },
+  {
+    "objectID": "dicesim.html",
+    "href": "dicesim.html",
+    "title": "Dice Simulations",
+    "section": "",
+    "text": "## Introduction Ahoy. This is my project from my undergraduate days."
+  },
+  {
+    "objectID": "dicesim.html#introduction",
+    "href": "dicesim.html#introduction",
+    "title": "Dice Simulations",
+    "section": "Introduction",
+    "text": "Introduction\nAhoy. This is my project from my undergraduate days."
+  }
+]
