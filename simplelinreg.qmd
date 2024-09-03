@@ -1,0 +1,71 @@
+---
+title: "SimpleLinReg.jl"
+description: "My first ever Julia package for doing simple linear regression in two variables."
+category: "Package"
+author: "Debartha Paul"
+date: "2/1/2023"
+about:
+    template: trestles
+    image: logo.png
+    links:
+        - icon: github
+          text: GitHub
+          href: https://github.com/itsdebartha/SimpleLinReg.jl.git
+---
+<img src="logo.png" width=0 height=0>
+
+##  Introduction
+This package is a result of my preparation for the Google Summer of Code, 2023. Unfortunately, I couldn't make it to the GSoC 2023, but I did create this package. I build this package from the groundup using Julia. The package currently consists of 1 function which enables anyone to find the simple linear regression between two variables.
+
+##  Installation
+This package is not intended for the Julia general package repository so we have to install it using the GitHub address.
+
+- Step 1- Open Julia REPL in your device. Then run the following command:
+```julia
+using Pkg
+Pkg.add(url = "https://github.com/itsdebartha/SimpleLinReg.jl.git")
+```
+- Step 2- The package will be installed. To check, press `]` which will open the Pkg REPL. Then run `st`. You'll be seeing something like:
+```julia
+(@v1.9) pkg> st
+Status `C:\Users\user\.julia\environments\v1.9\Project.toml`
+  [4c88cf16] Aqua v0.8.4
+  [77b51b56] AverageShiftedHistograms v0.8.9
+  [6e4b80f9] BenchmarkTools v1.4.0
+  [336ed68f] CSV v0.10.12
+  [13f3f980] CairoMakie v0.11.5
+  .
+  .
+  .
+```
+If you can see `SimpleLinReg` listed (which you should), then the installation is fine.
+
+##  Usage
+The main function of interest is `linreg`. It has the basic syntax as:
+```julia
+linreg(x::Vector,y::Vector;intercept::Bool = true)
+```
+where `x` is the regressor and `y` is the regressand. The `intercept` field accepts a boolean value which determines whether the intercept term in the simple linear regression be present or not. In short, with `intercept=true` (by default), we estimate $\alpha$ and $\beta$ as in the equation:
+$$ y=\alpha + \beta x + \epsilon $$
+
+In case of `intercept=false`, we estimate only `\beta` as in:
+$$ y=\beta x + \epsilon $$
+
+Please note that in both the instances, we assume $\epsilon$ to follow $N\left(0, \sigma^2\right)$ identically and independently.
+
+##  Output
+The output will have the format as:
+```julia
+SIMPLE LINEAR REGRESSION IN TWO VARIABLES:
+==========================================
+Slope:       5.04638
+Intercept:   1.98306
+```
+
+##  Help Files
+Just like any other Julia package, if you press `?` in the REPL, then the Help REPL will open up. Typing `linreg` will give a description of the function along with the method and its syntax.
+
+##  Scope of Improvement
+There are many subtle improvements that are needed to mark this package as "complete". Among those are the ability to handle missing values. A more preliminary test of normality is also encouraged. Further, I have planned to implement the significance tests for the estimated parameters.
+
+If you have any suggestions, feel free to contact me. Even better, you could also create an issue with your suggestion in GitHub.

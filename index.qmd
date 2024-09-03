@@ -1,0 +1,25 @@
+---
+title: "Debartha Paul"
+about:
+    template: jolla
+    image: Debartha.jpg
+    links:
+        - icon: linkedin
+          text: LinkedIn
+          href: https://www.linkedin.com/in/debartha-paul-90a296a9/
+        - icon: github
+          text: GitHub
+          href: https://github.com/itsdebartha
+---
+
+Hi! Welcome to my blog. I am a Statistics student with a special interest in Stochastic Processes. This is my website, and I will keep updating it with a variety of my projects, ideas and (maybe?) articles. I am eager to know what you think and would be very glad if you could point out my mistakes and all. Just drop me an [email](mailto:pauldeep102@gmail.com).
+
+### Education
+
+Presidency University, Kolkata | M.Sc Statistics | Sep 2022 - July 2024
+
+Presidency University, Kolkata | B.Sc Statistics(Hons.) | Aug 2019 - June 2022
+
+### Interests
+
+Stochastic Processes | Time Series Analysis | Bayesian Inference
