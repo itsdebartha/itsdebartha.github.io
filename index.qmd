@@ -22,21 +22,15 @@ in 2024 and my Bachelor of Science (Hons.) in Statistics in 2022
 from [Presidency University, Kolkata](https://www.presiuniv.ac.in/).
 I am currently working in the domain of Causal Inference.
 
-### Education
-
-Iowa State University, Ames | PhD. Statistics | Aug 2024 - Present
-
-Presidency University, Kolkata | M.Sc Statistics | Sep 2022 - July 2024
-
-Presidency University, Kolkata | B.Sc Statistics(Hons.) | Aug 2019 - June 2022
-
 ---
+::: {style="font-size: 0.9rem;"}
 This is my website, and I will keep updating it with a variety 
 of my projects, ideas and (maybe?) articles. I am eager
 to know what you think and would be very glad if you could point
 out my mistakes and all. Just drop me an email at
 [pauldeep102@gmail.com](mailto:pauldeep102@gmail.com)
 or [debartha@iastate.edu](mailto:debartha@iastate.edu).
+:::
 
 
 <!--
