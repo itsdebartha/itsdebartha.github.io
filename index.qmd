@@ -12,9 +12,15 @@ about:
           href: https://github.com/itsdebartha
 ---
 
-Hi! Welcome to my blog. I am a Statistics student with a special interest in Stochastic Processes. This is my website, and I will keep updating it with a variety of my projects, ideas and (maybe?) articles. I am eager to know what you think and would be very glad if you could point out my mistakes and all. Just drop me an [email](mailto:pauldeep102@gmail.com).
+Hi! Welcome to my blog. I am a PhD scholar in Statistics.
+This is my website, and I will keep updating it with a variety 
+of my projects, ideas and (maybe?) articles. I am eager
+to know what you think and would be very glad if you could point
+out my mistakes and all. Just drop me an [email](mailto:pauldeep102@gmail.com).
 
 ### Education
+
+Iowa State University, Ames | PhD. Statistics | Aug 2024 - Present
 
 Presidency University, Kolkata | M.Sc Statistics | Sep 2022 - July 2024
 
