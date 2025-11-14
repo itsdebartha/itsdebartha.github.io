@@ -5,12 +5,12 @@ project:
 website:
   navbar:
     background: "#1c3763"
-    right:
-      - href: index.qmd
-        text: Debartha Paul
     left:
+      - href: index.qmd
+        text: About
+    right:
       - href: about.qmd
-        text: "Stochastic Stories: A Stats Student's Adventures!"
+        text: "Blog"
     tools:
       - icon: github
         href: https://github.com/itsdebartha 
