@@ -1,11 +1,15 @@
 ---
 title: "Education"
 ---
-**Doctor of Philosophy, Statistics** [Aug 2024 - Present]
-: Iowa State University, Ames, Iowa 
 
-**Master of Science, Statistics** [Sep 2022 - July 2024]
-: Presidency University, Kolkata, West Bengal 
+- **Aug 2024 – Present**  
+  **Doctor of Philosophy, Statistics**  
+  _Iowa State University, Ames, Iowa_
 
-**Bachelor of Science(Hons.), Statistics** [Aug 2019 - June 2022]
-: Presidency University, Kolkata, West Bengal 
+- **Sep 2022 – July 2024**  
+  **Master of Science, Statistics**  
+  _Presidency University, Kolkata, West Bengal_
+
+- **Aug 2019 – June 2022**  
+  **Bachelor of Science (Hons.), Statistics**  
+  _Presidency University, Kolkata, West Bengal_
