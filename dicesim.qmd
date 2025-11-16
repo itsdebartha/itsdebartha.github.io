@@ -15,6 +15,7 @@ about:
           href: https://github.com/itsdebartha/Dice-Simulations.git
         - text: R-bloggers
           href: https://www.r-bloggers.com/2022/11/some-problems-related-to-dice/
+css: styles.css
 ---
 <img src="Dice.png" width=0 height=0>
 

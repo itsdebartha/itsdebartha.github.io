@@ -10,6 +10,7 @@ about:
         - icon: github
           text: GitHub
           href: https://github.com/itsdebartha
+css: styles.css
 ---
 
 Hi! I am Debartha Paul (De-bar-tho Paal, দেবার্থ পাল). I am a PhD scholar in the 
@@ -23,11 +24,11 @@ from [Presidency University, Kolkata](https://www.presiuniv.ac.in/).
 I am currently working in the domain of Causal Inference.
 
 ---
-::: {style="font-size: 0.9rem;"}
+::: {style="font-size: 0.9rem; color: #778aba;"}
 This is my website, and I will keep updating it with a variety 
 of my projects, ideas and (maybe?) articles. I am eager
-to know what you think and would be very glad if you could point
-out my mistakes and all. Just drop me an email at
+to know what you think and would be very glad if you can suggest
+some improvements. Just drop me an email at
 [pauldeep102@gmail.com](mailto:pauldeep102@gmail.com)
 or [debartha@iastate.edu](mailto:debartha@iastate.edu).
 :::

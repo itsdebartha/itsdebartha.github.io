@@ -11,6 +11,7 @@ about:
         - icon: github
           text: GitHub
           href: https://github.com/itsdebartha/SimpleLinReg.jl.git
+css: styles.css
 ---
 <img src="logo.png" width=0 height=0>
 
