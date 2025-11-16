@@ -1,0 +1,18 @@
+---
+title: "Experience"
+---
+::: {style="font-size: 1.3rem; color: #1c3763"}
+At **Iowa State University**, Ames, IA, USA
+:::
+- **STAT 5720** : Time Series Data Analysis (Grader), _Spring 2025_
+- **STAT 3010** : Intermediate Statistical Concepts and Methods (Grader and Lab Instructor), _Fall 2024_
+
+::: {style="font-size: 1.3rem; color: #1c3763"}
+At **Corteva Agrisicence** (Remote), USA
+:::
+- Student Contractor, _Aug'25 - Present_
+
+::: {style="font-size: 1.3rem; color: #1c3763"}
+At **MSA Labs** (Remote), India
+:::
+- Data Science Intern, _May'24 - Jul'24_

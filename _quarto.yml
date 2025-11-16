@@ -10,6 +10,8 @@ website:
         text: About
       - href: education.qmd
         text: Education
+      - href: experience.qmd
+        text: Experience
     right:
       - href: about.qmd
         text: "Blog"
@@ -24,7 +26,7 @@ format:
     theme: 
       light: cosmo
       dark: superhero
-    mainfont: Helvetica
+    mainfont: Roboto
     css: styles.css
     toc: false
 
