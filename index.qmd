@@ -23,8 +23,14 @@ in 2024 and my Bachelor of Science (Hons.) in Statistics in 2022
 from [Presidency University, Kolkata](https://www.presiuniv.ac.in/).
 I am currently working in the domain of Causal Inference.
 
+Apart from academics, I am an ardent follower of football (people
+call it [soccer](https://www.britannica.com/story/why-do-some-people-call-football-soccer)
+nowadays) and chess. My favourite football club is
+[FC Barcelona](https://www.fcbarcelona.com/en/). I also like to
+try out new recipes in my free time.
+
 ---
-::: {style="font-size: 0.9rem; color: #778aba;"}
+::: {style="font-size: 0.8rem; color: #778aba;"}
 This is my website, and I will keep updating it with a variety 
 of my projects, ideas and (maybe?) articles. I am eager
 to know what you think and would be very glad if you can suggest
