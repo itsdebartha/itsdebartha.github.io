@@ -15,4 +15,4 @@ At **Corteva Agrisicence** (Remote), USA
 ::: {style="font-size: 1.3rem; color: #1c3763"}
 At **MSA Labs** (Remote), India
 :::
-- Data Science Intern, _May'24 - Jul'24_
+- Data Science Intern, _Apr'24 - Jun'24_

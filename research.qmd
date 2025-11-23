@@ -1,0 +1,6 @@
+---
+title: "Research"
+---
+- Probability-based Response-adaptive Allocation Design
+  in Crossover Clinical Trials, _Masters Dissertation_
+  (Supervisor: Dr. Saurav De,)

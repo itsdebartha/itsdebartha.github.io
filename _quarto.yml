@@ -12,6 +12,8 @@ website:
         text: Education
       - href: experience.qmd
         text: Experience
+      - href: research.qmd
+        text: Research
     right:
       - href: about.qmd
         text: "Blog"
