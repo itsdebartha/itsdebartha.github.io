@@ -16,7 +16,7 @@ css: styles.css
 Hi! I am Debartha Paul (De-bar-tho Paal, দেবার্থ পাল). I am a PhD scholar in the 
 [Department of Statistics](https://www.stat.iastate.edu/)
 at [Iowa State University](https://www.iastate.edu/).
-Currently I am working with Dr. Kyle Schindl.
+Currently I am working with [Dr. Kyle Schindl](https://kyleschindl.github.io/).
 
 Before joining ISU, I received my Master of Science in Statistics
 in 2024 and my Bachelor of Science (Hons.) in Statistics in 2022
