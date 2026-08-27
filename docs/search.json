@@ -116,13 +116,13 @@
     "href": "experience.html",
     "title": "Experience",
     "section": "",
-    "text": "At Iowa State University, Ames, IA, USA\n\n\nSTAT 5720 : Time Series Data Analysis (Grader), Spring 2025\nSTAT 3010 : Intermediate Statistical Concepts and Methods (Grader and Lab Instructor), Fall 2024\n\n\nAt Corteva Agrisicence (Remote), USA\n\n\nStudent Contractor, Aug’25 - Aug’26\n\n\nAt MSA Labs (Remote), India\n\n\nData Science Intern, Apr’24 - Jun’24"
+    "text": "At Iowa State University, Ames, IA, USA\n\n\nSTAT 5503 : (formerly STAT 5200) Statistical Methods III (Grader), Fall 2026\nSTAT 3201 : (formerly STAT 3010) Intermediate Statistical Concepts and Methods (Grader and Lab Instructor), Fall 2026\nSTAT 5720 : Time Series Data Analysis (Grader), Spring 2025\nSTAT 3010 : Intermediate Statistical Concepts and Methods (Grader and Lab Instructor), Fall 2024\n\n\nAt Corteva Agriscience (Remote), USA\n\n\nStudent Contractor (Graduate Research Assistant), Aug’25 - Aug’26\nWorked on Bayesian optimization for adaptive experimentation, developing a reformulation that let the optimizer escape a structural local maximum and reach near-optimal solutions\n\n\nAt MSA Labs (Remote), India\n\n\nData Science Intern, Apr’24 - Jun’24\nWrote introductory documentation teaching people without a prior programming background to use Julia for statistical analysis"
   },
   {
     "objectID": "research.html",
     "href": "research.html",
     "title": "Research",
     "section": "",
-    "text": "Probability-based Response-adaptive Allocation Design in Crossover Clinical Trials, Masters Dissertation (Supervisor: Dr. Saurav De)"
+    "text": "I am currently working on distributional causal inference, trying to understand how a treatment affects an entire outcome distribution. My current work draws on optimal transport and semiparametric efficiency theory.\n\nManuscript under Preparation\n\nA Geometric Framework for Distributional Causal Inference, with Dr. Kyle Schindl\n\n\n\nEarlier work\n\nProbability-based Response-adaptive Allocation Design in Crossover Clinical Trials, with Dr. Saurav De (Masters Dissertation)"
   }
 ]

@@ -10,10 +10,10 @@ website:
         text: About
       - href: education.qmd
         text: Education
-      - href: experience.qmd
-        text: Experience
       - href: research.qmd
         text: Research
+      - href: experience.qmd
+        text: Experience
     right:
       - href: about.qmd
         text: "Blog"

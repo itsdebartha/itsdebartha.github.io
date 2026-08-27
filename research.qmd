@@ -1,6 +1,13 @@
 ---
 title: "Research"
 ---
-- Probability-based Response-adaptive Allocation Design
-  in Crossover Clinical Trials, _Masters Dissertation_
-  (Supervisor: Dr. Saurav De)
+
+I am currently working on _distributional causal inference_, trying to understand how
+a treatment affects an entire outcome distribution. My current work draws on _optimal
+transport_ and _semiparametric efficiency theory_.
+
+#### Manuscript under Preparation
+- _A Geometric Framework for Distributional Causal Inference_, with **Dr. Kyle Schindl**
+
+#### Earlier work
+- _Probability-based Response-adaptive Allocation Design in Crossover Clinical Trials_, with **Dr. Saurav De** _(Masters Dissertation)_
