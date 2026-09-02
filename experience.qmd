@@ -1,7 +1,7 @@
 ---
 title: "Experience"
 ---
-::: {style="font-size: 1.3rem; color: #1c3763"}
+::: {.job-header}
 At **Iowa State University**, Ames, IA, USA
 :::
 - **STAT 5503** : _(formerly STAT 5200)_ Statistical Methods III (Grader), _Fall 2026_
@@ -9,14 +9,14 @@ At **Iowa State University**, Ames, IA, USA
 - **STAT 5720** : Time Series Data Analysis (Grader), _Spring 2025_
 - **STAT 3010** : Intermediate Statistical Concepts and Methods (Grader and Lab Instructor), _Fall 2024_
 
-::: {style="font-size: 1.3rem; color: #1c3763"}
+::: {.job-header}
 At **Corteva Agriscience** (Remote), USA
 :::
 - **Student Contractor (Graduate Research Assistant)**, _Aug'25 - Aug'26_
 - Worked on Bayesian optimization for adaptive experimentation, developing a reformulation that let the optimizer
   escape a structural local maximum and reach near-optimal solutions
 
-::: {style="font-size: 1.3rem; color: #1c3763"}
+::: {.job-header}
 At **MSA Labs** (Remote), India
 :::
 - **Data Science Intern**, _Apr'24 - Jun'24_

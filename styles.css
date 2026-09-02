@@ -10,3 +10,12 @@ body {
 p {
     text-align: justify
 }
+
+.job-header {
+  font-size: 1.3rem;
+  color: #1c3763;
+}
+
+body.quarto-dark .job-header {
+  color: #f5a35c;
+}
