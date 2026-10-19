@@ -25,6 +25,8 @@ website:
 
 format:
   html:
+    include-in-header:
+      text: <meta name="google-site-verification" content="sZRXSXZKzm9HsdjZSmOtQVzi0991ei0Jyi6Eq_8eMxc" />
     theme: 
       light: cosmo
       dark: superhero
