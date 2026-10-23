@@ -7,7 +7,7 @@ a treatment affects an entire outcome distribution. My current work draws on _op
 transport_ and _semiparametric efficiency theory_.
 
 #### Manuscript under Preparation
-- _On the Geometry of Distributional Treatment Heterogeneity_, with **Dr. Kyle Schindl**
+- _On the Geometry of Distributional Treatment Effect Heterogeneity_, with **Dr. Kyle Schindl**
 
 #### Earlier work
 - _Probability-based Response-adaptive Allocation Design in Crossover Clinical Trials_, with **Dr. Saurav De** _(Masters Dissertation)_
