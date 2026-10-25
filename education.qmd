@@ -2,13 +2,15 @@
 title: "Education"
 ---
 
-- **Aug 2024 – Present**  
+- **Aug 2024 – Present, expected 2029**  
   **Doctor of Philosophy, Statistics**  
-  _Iowa State University, Ames, Iowa_
+  _Iowa State University, Ames, Iowa_  
+  Advisor: Kyle Schindl
 
 - **Sep 2022 – July 2024**  
   **Master of Science, Statistics**  
-  _Presidency University, Kolkata, West Bengal_
+  _Presidency University, Kolkata, West Bengal_  
+  Supervisor: Dr. Saurav De
 
 - **Aug 2019 – June 2022**  
   **Bachelor of Science (Hons.), Statistics**  

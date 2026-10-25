@@ -8,8 +8,6 @@ website:
     left:
       - href: index.qmd
         text: About
-      - href: education.qmd
-        text: Education
       - href: research.qmd
         text: Research
       - href: experience.qmd

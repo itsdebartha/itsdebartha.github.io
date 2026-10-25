@@ -19,3 +19,18 @@ p {
 body.quarto-dark .job-header {
   color: #f5a35c;
 }
+
+.updates {
+  border-left: 3px solid var(--bs-primary, #1F3A5F);
+  padding-left: 1rem;
+  margin: 1rem 0;
+  color: color-mix(in srgb, currentColor 75%, transparent);
+}
+
+.updates p {
+  margin-bottom: 0.6rem;
+}
+
+.updates p:last-child {
+  margin-bottom: 0;
+}
