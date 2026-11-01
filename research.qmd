@@ -10,4 +10,4 @@ transport_ and _semiparametric efficiency theory_.
 - _On the Geometry of Distributional Treatment Effect Heterogeneity_, with **Dr. Kyle Schindl**
 
 #### Earlier work
-- _Probability-based Response-adaptive Allocation Design in Crossover Clinical Trials_, with **Dr. Saurav De** _(Masters Dissertation)_
+- _Probability-based Response-adaptive Allocation Design in Crossover Trials_, with **Dr. Saurav De** _(Masters Dissertation)_
